@@ -1,7 +1,7 @@
 ## Ola, eu sou caio rodrigo, dev se especializando em ferramentas front-end
 
 <div align="center">
-  <img align="center" width="100%"  src= "https://imgur.com/MAMdnKs.gif">
+  <img align="center" width="100%" height="300px"  src= "https://imgur.com/MAMdnKs.gif">
   <a href="https://github.com/seaborgg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seaborgg&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seaborgg&layout=compact&langs_count=7&theme=radical"/>
