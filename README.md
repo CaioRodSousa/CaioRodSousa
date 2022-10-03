@@ -1,4 +1,5 @@
-## Ola, eu sou caio rodrigo, dev se especializando em ferramentas front-end
+## Ola, eu sou caio rodrigo
+## Analista de Dados (GCP) | Ciência e Engenharia de Dados | Analise de dados em Cloud | Data Engineer | Cloud Data Engineer
 <img width="100%" height="300px" src="https://imgur.com/MAMdnKs.gif"/>
 <div style="display: inline-block;">
   <a href="https://github.com/seaborgg">
@@ -6,11 +7,11 @@
   <img height="180px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seaborgg&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline-block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center"  height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
