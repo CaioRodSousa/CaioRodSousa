@@ -1,5 +1,5 @@
 ## Ola, eu sou caio rodrigo
-## Analista de Dados (GCP) | Ciência e Engenharia de Dados | Analise de dados em Cloud | Data Engineer | Cloud Data Engineer
+## Analista de Dados (AWS) | Ciência e Engenharia de Dados | Analise de dados em Cloud | Data Engineer | Cloud Data Engineer
 <img width="100%" height="300px" src="https://imgur.com/MAMdnKs.gif"/>
 <div style="display: inline-block;">
   <a href="https://github.com/CaioRodSousa">
